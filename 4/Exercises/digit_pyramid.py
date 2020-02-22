@@ -1,7 +1,7 @@
 from school import get_int, error
 
 MIN_HEIGHT = 1
-MAX_HEIGHT = 100
+MAX_HEIGHT = 27
 
 height = get_int("Enter pyramid height: ", force=True)
 
