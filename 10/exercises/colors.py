@@ -1,0 +1,20 @@
+
+
+SKY_BLUE = 139, 228, 223
+RED      = 255, 0, 0
+MAROON   = 128, 0, 0
+LIME     = 0, 255, 0
+GREEN    = 0, 128, 0
+BLUE     = 0, 0, 255
+NAVY     = 0, 0, 128
+YELLOW   = 255, 255, 0
+MAGENTA  = 255, 0, 255
+PURPLE   = 128, 0, 128
+BLACK    = 0, 0, 0
+WHITE    = 255, 255, 255
+GRAY     = 128, 128, 128
+CYAN     = 0, 255, 255
+
+COLORS = [RED, MAROON, LIME, GREEN, BLUE,
+          NAVY, YELLOW, MAGENTA, PURPLE,
+          BLACK, WHITE, GRAY, CYAN]
